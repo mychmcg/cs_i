@@ -15,7 +15,7 @@ The program is essentially a textual/cli game menu with more features/refactors 
 ## Usage
 1. Clone the repo.
 2. Compile the desired file.
-        ex: g++ assignment6.cpp -o cs_1
+	- ex: `g++ assignment_6.cpp -o cs_1`
 3. Run the executable in your terminal, optionally passing an input file.
-        ex: ./cs_1 testinput
+	- ex: `./cs_1 testinput`
 4. Happy bug hunting!
